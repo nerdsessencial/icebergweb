@@ -1,3 +1,4 @@
+body{ background-color:rgba(188,184,184,1.00)}
 .navbar{ background-color:#2f3a44}
 .carousel-inner > .item > img,
   .carousel-inner > .item > a > img {
@@ -7,3 +8,12 @@
 	  
   }
 .slider { width:1280px; margin-top:-15px;}
+
+.container #navbar{ margin-left:770px;}
+
+#nome h1,h5{ text-align:center; font-family:oswald}
+
+.bloco1 table{ width:950px;}
+.bloco1 table td{ background-color:rgba(248,247,247,1.00); padding:40px}
+.bloco1 table td img{ width:90px; height:90px}
+.bloco1 table td p{text-align:center;margin-top:-80px;}
