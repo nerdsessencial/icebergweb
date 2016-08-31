@@ -1,1 +1,9 @@
 .navbar{ background-color:#2f3a44}
+.carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 100%;
+	  height:400px;
+      margin: auto;
+	  
+  }
+.slider { width:1280px; margin-top:-15px;}
