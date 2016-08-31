@@ -4,6 +4,8 @@ body{
 
 .navbar { border-radius:0px; border:0px}
 .navbar a {color:#fff;}
+.navbar-nav {margin-left:780px}
+.navbar-nav a:hover{ color:#485e6d}
 .container-fluid { background-color:#485e6d;}
 .carousel-inner > .item > img,
   .carousel-inner > .item > a > img {
