@@ -10,6 +10,7 @@ body{
       width: 100%;
       margin: auto;
   }
+  .navbar-header img{margin-top:5px}
 .slider-margem{
 	margin-top:-20px;
 }
