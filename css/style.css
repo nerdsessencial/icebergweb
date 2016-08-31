@@ -2,13 +2,14 @@ body{
 	background-color: #f2f2f2
 }
 
-.navbar{ background-color:#2f3a44}
+.navbar { border-radius:0px; border:0px}
+.navbar a {color:#fff;}
+.container-fluid { background-color:#485e6d;}
 .carousel-inner > .item > img,
   .carousel-inner > .item > a > img {
       width: 100%;
       margin: auto;
   }
-  
 .slider-margem{
 	margin-top:-20px;
 }
