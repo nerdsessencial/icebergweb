@@ -10,10 +10,26 @@ body{
       width: 100%;
       margin: auto;
   }
-  .navbar-header img{margin-top:5px}
+
+.navbar-header img{margin-top:5px}
 .slider-margem{
 	margin-top:-20px;
 }
+
+.div-perguntas{
+	background: #fff;
+	overflow: hidden;
+}
+
+.media-img{
+	position: relative;
+	padding: 0px;
+}
+
+.pull-left:{
+	float: left!important;
+}
+
 
 
 
