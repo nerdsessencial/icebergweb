@@ -2527,82 +2527,11 @@ aside .media .media-body a:hover {
 
 
 
-.content-info {
-	font-size: 14px;
-	line-height: 20px;
-	padding: 30px 0;
-	background: #fff;
-	position: relative;
-}
-
-.content-info h5 small {
-	color: #838886;
-	margin-left: 4px;
-}
-
-.sottofooter {
-	font-size: 12px
-}
-
-.content-info .icone-social {
-	width: 153px;
-	margin: 0 auto 20px;
-}
-
-.content-info .addthis_button_facebook_like iframe {
-	width: 120px !important;
-}
-
-.content-info .copyright {
-	text-align: center;
-}
-
-.icone-social a {
-	font-size: 24px;
-}
-
-.icone-social a:hover {
-	text-decoration: none;
-	opacity: 0.8;
-}
-
-a.icona-facebook {
-	color: #2c89b6;
-}
-
-a.icona-twitter {
-	color: #45ada8;
-}
-
-a.icona-google-plus {
-	color: #dd4c39;
-}
-
-a.icona-flickr {
-	color: #ea4c89;
-}
-
-a.icona-instagram {
-	color: #aa7e62;
-}
+.content-info p{}
+.content-info img {}
 
 
-.language_list {
-	list-style: none;
-	text-align: center;
-}
 
-
-.language_list ul {
-	padding: 0;
-	margin: 0;
-}
-
-
-.language_list li {
-display: inline-block;
-margin:  0 5px;
-}
 /* ==========================================================================
    WordPress Generated Classes
    See: http://codex.wordpress.org/CSS#WordPress_Generated_Classes
@@ -3241,29 +3170,6 @@ padding:0 30px;
 
 
 
-.content-info {
-	padding: 60px 0;
-}
-
-.content-info .slogan {
-	width: 120px;
-	height: auto;
-	margin-left: -20px;
-	margin-top: 20px;
-}
-
-.content-info .icone-social {
-	float: left;
-	margin: 0;
-}
-
-.content-info .copyright {
-	float: right;
-	text-align: left;
-}
-}
- @media (min-width: 992px) {
-
 /* ==========================================================================
    STILI GENERICI @ 992
    ========================================================================== */
@@ -3468,11 +3374,7 @@ h3 {
 
 
 
-.content-info .slogan {
-	width: 160px;
-	margin-top: -20px;
-}
-}
+
  @media (min-width: 1200px) {
 
 /* slider per cambiare risoluzioni responsive */
@@ -3502,10 +3404,7 @@ h3 {
 	margin-top: 93px;
 }
 
-.content-info p {
-	font-size: 14px;
-	line-height: 20px;
-}
+
 
 .media .img-overlay h3 {
 	color: #fff;
@@ -3689,7 +3588,6 @@ div.wpcf7-response-output {
 }
 
 .form-contatti-footer {
-	padding: 20px 50px;
 }
 
 .contatti-numeri h2 {
@@ -3716,18 +3614,14 @@ div.wpcf7-response-output {
    Footer @ 1200
    ========================================================================== */
 
+    .rodape { background-color:rgba(98,96,96,1.00); width:100%; height:40px;}
+	.rodape p{color:#fff;}
+	.rodape img {}
 
-.content-info .slogan {
-	width: 170px;
-	margin-left: 0;
-}
-}
 
 
 
 /*risoluzione XL */
- @media (min-width: 1600px) {
-
 .container {
 	max-width:1410px;
 }
