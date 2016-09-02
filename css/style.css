@@ -1,1 +1,50 @@
-.navbar{ background-color:#2f3a44}
+body{ 
+	background-color: #f2f2f2
+}
+
+.navbar { border-radius:0px; border:0px}
+.navbar a {color:#fff;}
+.navbar-nav {margin-left:780px}
+.navbar-nav a:hover{ color:#485e6d}
+.container-fluid { background-color:#485e6d;}
+.carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 100%;
+      margin: auto;
+  }
+
+.navbar-header img{margin-top:5px}
+.slider-margem{
+	margin-top:-20px;
+}
+
+.div-perguntas{
+	background: #fff;
+	overflow: hidden;
+}
+
+.media-img{
+	position: relative;
+	padding: 0px;
+}
+
+.pull-left:{
+	float: left!important;
+}
+
+#quebra-pagina img{
+	margin-top: 30px;
+    margin-bottom: 5px;
+}
+
+.div-banners{
+	background-color: #ddaf4c;
+	padding-top: 100px;
+	/*margin-top: 70px;*/
+	margin-bottom: 15px;
+}
+
+
+
+
+
